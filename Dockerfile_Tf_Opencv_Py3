@@ -1,6 +1,6 @@
 FROM tensorflow/tensorflow:1.3.0-gpu-py3
 
-MAINTAINER Fergal Cotter <fbc23@cam.ac.uk>
+MAINTAINER Kelvin Lu <kelvin.lu.au@gmail.com>
 
 # The code below is all based off the repos made by https://github.com/janza/
 # He makes great dockerfiles for opencv, I just used a different base as I need
